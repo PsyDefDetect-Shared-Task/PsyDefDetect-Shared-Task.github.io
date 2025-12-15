@@ -16,7 +16,7 @@ Grounded in the clinically validated *Defense Mechanism Rating Scales (DMRS)* fr
 - **2025-12-15** – PsyDefDetect is officially announced as a shared task at the BioNLP@ACL 2026.
 
 ## Contact
-Please stay up to date by joining our [Discord Server](https://discord.gg/AhuspeXNkM) and [Mailing List](https://www.google.com/). If you have any questions for the organizers, please email us at organizers@example.com.
+Please stay up to date by joining our [Discord Server](https://discord.gg/AhuspeXNkM) and [Mailing List](https://groups.google.com/g/psydefdetect). If you have any questions for the organizers, please email us at psydefdetect@googlegroups.com.
 
 
 ## Organizers
