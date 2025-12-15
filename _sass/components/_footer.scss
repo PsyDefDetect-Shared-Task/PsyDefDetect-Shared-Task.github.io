@@ -1,0 +1,72 @@
+/**
+ * Site Info
+ */
+
+.footer {
+  @include flexbox();
+  @include align-items(center);
+  @include justify-content(center);
+  color: $footer-text-color;
+  background: $footer-background;
+  padding-top: 5;
+  padding-bottom: map-get($spacers, 4);
+  a {
+    @include link-colors ($footer-text-color, $main-color-1);
+  }
+  .main {
+    width: 100%;
+    @include flexbox();
+    @include flex-direction(column);
+    @include align-items(center);
+    @include justify-content(flex-start);
+  }
+  .site-info {
+    font-size: map-get($base, font-size-xs);
+    text-align: center;
+    display: flex;
+    @include flex-direction(column);
+    @include align-items(center);
+    margin-top: 0;
+    gap: map-get($spacers, 1);
+    .menu {
+      line-height: map-get($base, line-height-xs);
+      & > * {
+        &:not(:last-child) {
+          @include split-line(right, default, $footer-text-color);
+          padding-right: map-get($spacers, 1);
+          margin-right: map-get($spacers, 1);
+        }
+      }
+    }
+    .footer-quote {
+      margin: 0;
+      font-size: map-get($base, font-size-sm);
+      color: rgba($footer-text-color, .85);
+      font-style: italic;
+      line-height: map-get($base, line-height);
+      p {
+        margin-bottom: map-get($spacers, 1);
+      }
+      cite {
+        display: block;
+        font-size: map-get($base, font-size-xs);
+        font-style: normal;
+        letter-spacing: .04em;
+        text-transform: uppercase;
+        color: rgba($footer-text-color, .6);
+      }
+    }
+    .footer-copy {
+      font-size: map-get($base, font-size-xs);
+      color: rgba($footer-text-color, .7);
+      margin-top: map-get($spacers, 1);
+    }
+  }
+}
+.footer__author-links {
+  @include overflow(auto);
+  margin: 0;
+  .author-links {
+    text-align: center;
+  }
+}

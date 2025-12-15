@@ -1,0 +1,24 @@
+header:
+  - title: Home
+    url: /
+    key: home
+
+  - title: Task
+    url: /task/
+    key: task
+
+  - title: Timeline
+    url: /timeline/
+    key: timeline
+
+  - title: CodaBench
+    url: https://www.codabench.org/competitions/12124/?secret_key=32ca1783-b1bb-4b70-9052-c241da5e0ab6#/participate-tab
+    type: button
+    variant: primary
+    new_window: true
+
+  - title: Paper Submission
+    url: /paper-submission/
+    key: paper-submission
+    type: button
+    variant: secondary

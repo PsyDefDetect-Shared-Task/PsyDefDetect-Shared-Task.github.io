@@ -1,0 +1,71 @@
+/* start custom scss snippet */
+
+/* Use a purple accent for article body links */
+.article__content a,
+.article__content a:visited,
+.js-article-content a,
+.js-article-content a:visited {
+  color: #7c3aed !important;
+}
+
+.article__content a:hover,
+.article__content a:focus,
+.article__content a:active,
+.js-article-content a:hover,
+.js-article-content a:focus,
+.js-article-content a:active {
+  color: #7c3aed !important;
+}
+
+.ack-logos {
+  margin: 2rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2.5rem;
+  flex-wrap: wrap;
+}
+
+.ack-logos img {
+  max-height: 72px;
+  width: auto;
+  display: block;
+}
+
+.label-table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.92rem;
+}
+
+.label-table__col-level {
+  width: 18%;
+}
+
+.label-table__col-mechanisms {
+  width: 30%;
+}
+
+.label-table thead th {
+  padding: 0.65rem 0.85rem;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  color: #4c1d95;
+  background: #ede9fe;
+  border: 1px solid rgba(76, 29, 149, .25);
+}
+
+.label-table tbody td {
+  padding: 0.75rem 0.85rem;
+  border: 1px solid rgba(76, 29, 149, .18);
+  vertical-align: top;
+}
+
+.label-table tbody tr:nth-child(even) {
+  background: #faf7ff;
+}
+
+/* end custom scss snippet */
