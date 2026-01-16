@@ -95,4 +95,4 @@ For a detailed definition, check out our [Annotation Handbook]({{ '/Psychologica
 
 ## Baseline and Evaluation Metrics
 
-Baseline runs and official metrics are published on our [CodaBench Page](https://www.codabench.org/competitions/12124/?secret_key=32ca1783-b1bb-4b70-9052-c241da5e0ab6#/participate-tab).
+Baseline runs and official metrics are published on our [CodaBench Page](https://www.codabench.org/competitions/12124/).

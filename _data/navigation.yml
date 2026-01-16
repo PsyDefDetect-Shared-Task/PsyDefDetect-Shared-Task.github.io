@@ -12,7 +12,7 @@ header:
     key: timeline
 
   - title: CodaBench
-    url: https://www.codabench.org/competitions/12124/?secret_key=32ca1783-b1bb-4b70-9052-c241da5e0ab6#/participate-tab
+    url: https://www.codabench.org/competitions/12124/
     type: button
     variant: primary
     new_window: true
