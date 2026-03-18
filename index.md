@@ -31,6 +31,8 @@ Grounded in the clinically validated *Defense Mechanism Rating Scales (DMRS)* fr
 <div class="faq-answer">
 <p>In the downloaded <code>test.json</code>, add a new field <code>"label"</code> to each entry with your predicted defense level, and save the file as <code>prediction.json</code>. Due to CodaBench's submission rules, you must <strong>compress the JSON file into a ZIP archive</strong> before uploading. Go to the <strong>My Submissions</strong> tab and upload the ZIP file. Once scored, you can choose whether to make your result public on the leaderboard.</p>
 <img src="{{ '/assets/images/faq-submission.png' | relative_url }}" alt="CodaBench My Submissions tab showing upload area">
+<p>We also provide baselines to help you get started. Please refer to the <strong>Baselines</strong> tab on the CodaBench competition page for details.</p>
+<img src="{{ '/assets/images/faq-baseline.png' | relative_url }}" alt="CodaBench Baselines tab showing zero-shot prompting baseline">
 </div>
 </details>
 
