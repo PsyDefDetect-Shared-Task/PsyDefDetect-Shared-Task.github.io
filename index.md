@@ -12,8 +12,34 @@ PsyDefDetect invites researchers to tackle a novel challenge at the intersection
 Grounded in the clinically validated *Defense Mechanism Rating Scales (DMRS)* framework, this shared task aims to advance the understanding of unconscious defensive functioning in text.
 
 ## News
-<!--- **2025-12-20** – Task launch on [CodaBench](https://codabench.org/) with starter baseline kits.-->
+- **2026-03-15** – Evaluation period begins.
+- **2025-12-20** – Task launch on [CodaBench](https://codabench.org/) with starter baseline kits.
 - **2025-12-15** – PsyDefDetect is officially announced as a shared task at the BioNLP@ACL 2026.
+
+## FAQ
+
+<details class="faq-item">
+<summary>Where can I download the dataset?</summary>
+<div class="faq-answer">
+<p>The dataset is hosted on our <a href="https://www.codabench.org/competitions/12124/">CodaBench competition page</a>. After registering for the competition, navigate to the <strong>Files</strong> tab on the left sidebar, then click <strong>input_data</strong> to download the dataset, which contains the training and test splits.</p>
+<img src="{{ '/assets/images/faq-download-data.png' | relative_url }}" alt="CodaBench Files tab showing input_data download">
+</div>
+</details>
+
+<details class="faq-item">
+<summary>How do I submit my results?</summary>
+<div class="faq-answer">
+<p>In the downloaded <code>test.json</code>, add a new field <code>"label"</code> to each entry with your predicted defense level, and save the file as <code>prediction.json</code>. Due to CodaBench's submission rules, you must <strong>compress the JSON file into a ZIP archive</strong> before uploading. Go to the <strong>My Submissions</strong> tab and upload the ZIP file. Once scored, you can choose whether to make your result public on the leaderboard.</p>
+<img src="{{ '/assets/images/faq-submission.png' | relative_url }}" alt="CodaBench My Submissions tab showing upload area">
+</div>
+</details>
+
+<details class="faq-item">
+<summary>How do I register my team?</summary>
+<div class="faq-answer">
+<p>We will release a Google Form for team registration at the end of the evaluation period. In the form, each team will select <strong>3 submission IDs</strong> from their CodaBench submissions as their final entries for ranking.</p>
+</div>
+</details>
 
 ## Contact
 Please stay up to date by joining our [Discord Server](https://discord.gg/AhuspeXNkM) and [Mailing List](https://groups.google.com/g/psydefdetect). If you have any questions for the organizers, please email us at psydefdetect@googlegroups.com.
