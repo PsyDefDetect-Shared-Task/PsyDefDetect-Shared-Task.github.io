@@ -13,12 +13,12 @@ This preliminary timeline is subject to change:
 
 2026-03-15: Start of evaluation period.
 
-2026-04-05: End of evaluation period.
+2026-04-07: End of evaluation period.
 
-2026-0X-XX: Paper submission.
+2026-04-17: Paper submission.
 
-2026-0X-XX: Author notifications.
+2026-05-04: Author notifications.
 
-2026-0X-XX: Camera ready due.
+2026-05-12: Camera ready due.
 
-**Attention**: the deadlines are not given as anywhere on earth (AoE) times.
+**Attention**: the deadlines are given as anywhere on earth (AoE) times.
