@@ -12,6 +12,7 @@ PsyDefDetect invites researchers to tackle a novel challenge at the intersection
 Grounded in the clinically validated *Defense Mechanism Rating Scales (DMRS)* framework, this shared task aims to advance the understanding of unconscious defensive functioning in text.
 
 ## News
+- **2026-04-04** – End of evaluation period extended to **April 7, 2026 (AOE)**. Submission guidelines and team registration link will be released on April 5.
 - **2026-03-15** – Evaluation period begins.
 - **2025-12-20** – Task launch on [CodaBench](https://www.codabench.org/competitions/12124/) with starter baseline kits.
 - **2025-12-15** – PsyDefDetect is officially announced as a shared task at the BioNLP@ACL 2026.
