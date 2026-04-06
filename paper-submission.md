@@ -64,8 +64,10 @@ Award winners will be announced and certificates will be presented on-site at th
 We ask participants to ensure the following citations are included in their system papers:
 
 **1. Overview Paper**
-```bibtex
-@inproceedings{na-etal-2026-psydefdetect,
+
+<details>
+<summary>Click to expand BibTeX</summary>
+<pre><code>@inproceedings{na-etal-2026-psydefdetect,
   title = "Overview of the PsyDefDetect Shared Task at BioNLP@ACL 2026: Detecting Levels of Psychological Defense Mechanisms in Supportive Conversations",
   author = "Na, Hongbin and
     Wang, Zimu and
@@ -84,11 +86,14 @@ We ask participants to ensure the following citations are included in their syst
   address = "San Diego, USA",
   publisher = "Association for Computational Linguistics",
 }
-```
+</code></pre>
+</details>
 
 **2. Survey Paper**
-```bibtex
-@inproceedings{na-etal-2025-survey,
+
+<details>
+<summary>Click to expand BibTeX</summary>
+<pre><code>@inproceedings{na-etal-2025-survey,
   title = "A Survey of Large Language Models in Psychotherapy: Current Landscape and Future Directions",
   author = "Na, Hongbin and
     Hua, Yining and
@@ -108,11 +113,14 @@ We ask participants to ensure the following citations are included in their syst
   doi = "10.18653/v1/2025.findings-acl.385",
   pages = "7362--7376",
 }
-```
+</code></pre>
+</details>
 
 **3. Dataset Paper**
-```bibtex
-@inproceedings{na-etal-2026-psydefconv,
+
+<details>
+<summary>Click to expand BibTeX</summary>
+<pre><code>@inproceedings{na-etal-2026-psydefconv,
   title = "You Never Know a Person, You Only Know Their Defenses: Detecting Levels of Psychological Defense Mechanisms in Supportive Conversations",
   author = "Na, Hongbin and
     Wang, Zimu and
@@ -132,7 +140,8 @@ We ask participants to ensure the following citations are included in their syst
   address = "San Diego, USA",
   publisher = "Association for Computational Linguistics",
 }
-```
+</code></pre>
+</details>
 
 ## Contact
 
