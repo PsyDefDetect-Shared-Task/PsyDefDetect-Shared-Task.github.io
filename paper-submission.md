@@ -5,4 +5,135 @@ permalink: /paper-submission/
 nav_key: paper-submission
 ---
 
-The paper submission portal will open soon. Please follow the timeline for the official call and required materials. For immediate updates, subscribe to announcements or reach out at psydefdetect@googlegroups.com.
+## Important Dates
+
+All deadlines are 11:59 PM UTC-12:00 ("Anywhere on Earth").
+
+- **Team registration closes**: April 7, 2026
+- **Final results announced**: April 8, 2026
+- **Paper submission deadline**: April 17, 2026
+- **Notification of acceptance**: May 4, 2026
+- **Camera-ready paper due**: May 12, 2026
+- **BioNLP Workshop date**: July 3 or 4, 2026
+
+> **⚠️ IMPORTANT**: All teams must complete the [Team Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfaZ4PMMicGvXrs_a3oXScYzzk1LipyPNO2m1EQjuta3kGwvg/viewform?usp=dialog) **before April 7, 2026 (AOE)**. Teams that do not register by this deadline will not be included in the official ranking.
+
+## Submission
+
+All participating teams are invited to submit system papers that, pending review, will be published as part of the BioNLP Workshop proceedings.
+
+Participants can submit a system paper at the following SoftConf link (track **"PsyDefDetect"**) anytime before the deadline on April 17, 2026:
+
+[https://softconf.com/acl2026/bionlp2026-st](https://softconf.com/acl2026/bionlp2026-st)
+
+## Format
+
+System papers should follow the **ACL 2026 short paper format** (i.e., up to **4 pages** of content, with unlimited pages for appendices and references), as described on the [ACL 2026 Call for Papers](https://2026.aclweb.org/calls/main_conference_papers/#paper-submission-details).
+
+The LaTeX/Word templates can be found at: [https://github.com/acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)
+
+As shared task system papers, submissions are **not anonymized** — please include author names and affiliations.
+
+## What We Are Looking For
+
+As a shared task, all submissions should be **system description papers grounded in the PsyDefDetect task** — that is, they should describe a technical approach and report results on the shared task data. You do not need to top the leaderboard, but experimental results are expected as the foundation of your paper.
+
+Papers with strong system performance are encouraged to provide detailed analysis of what design choices, training strategies, or data handling contributed to their success, offering actionable insights and reproducible takeaways for the community.
+
+Beyond system descriptions, we also welcome papers that build on their experimental findings to offer deeper insight into the task, including:
+
+- **Negative or unexpected results** with thoughtful analysis of why certain approaches fail for defense level detection.
+- **Error analyses** that reveal what current models can and cannot capture about psychological defensive functioning in dialogue.
+- **Interdisciplinary contributions** that bridge the DMRS clinical framework and NLP methodology, examining the gap between model outputs and clinical validity.
+- **Forward-looking perspectives** that identify open challenges, propose new directions, or discuss the broader implications of automated defense mechanism detection for clinical practice.
+
+Honest reporting of what does *not* work — and why — helps the community avoid redundant efforts and advances our collective understanding of this challenging task.
+
+## Awards
+
+We are pleased to announce three awards for outstanding contributions:
+
+- **Best System Paper** — Recognizing the team whose system paper demonstrates the strongest overall design, evaluation rigor, and task performance.
+- **Best Exploration Paper** — Recognizing work that provides novel analyses, insightful error studies, or creative experimental perspectives beyond the core task setup.
+- **Best Interdisciplinary Insight Paper** — Recognizing the paper that most effectively bridges clinical psychology theory and NLP methodology, advancing our understanding of defensive functioning in text.
+
+Award winners will be announced and certificates will be presented on-site at the BioNLP workshop at ACL 2026 in San Diego.
+
+## References
+
+We ask participants to ensure the following citations are included in their system papers:
+
+**1. Overview Paper**
+```bibtex
+@inproceedings{na-etal-2026-psydefdetect,
+  title = "Overview of the PsyDefDetect Shared Task at BioNLP@ACL 2026: Detecting Levels of Psychological Defense Mechanisms in Supportive Conversations",
+  author = "Na, Hongbin and
+    Wang, Zimu and
+    Chen, Zhaoming and
+    Hua, Yining and
+    Gao, Rena and
+    Yang, Kailai and
+    Chen, Ling and
+    Wang, Wei and
+    Ji, Shaoxiong and
+    Torous, John and
+    Ananiadou, Sophia",
+  booktitle = "The 25th Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks",
+  month = jul,
+  year = "2026",
+  address = "San Diego, USA",
+  publisher = "Association for Computational Linguistics",
+}
+```
+
+**2. Survey Paper**
+```bibtex
+@inproceedings{na-etal-2025-survey,
+  title = "A Survey of Large Language Models in Psychotherapy: Current Landscape and Future Directions",
+  author = "Na, Hongbin and
+    Hua, Yining and
+    Wang, Zimu and
+    Shen, Tao and
+    Yu, Beibei and
+    Wang, Lilin and
+    Wang, Wei and
+    Torous, John and
+    Chen, Ling",
+  booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+  month = jul,
+  year = "2025",
+  address = "Vienna, Austria",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2025.findings-acl.385/",
+  doi = "10.18653/v1/2025.findings-acl.385",
+  pages = "7362--7376",
+}
+```
+
+**3. Dataset Paper**
+```bibtex
+@inproceedings{na-etal-2026-psydefconv,
+  title = "You Never Know a Person, You Only Know Their Defenses: Detecting Levels of Psychological Defense Mechanisms in Supportive Conversations",
+  author = "Na, Hongbin and
+    Wang, Zimu and
+    Chen, Zhaoming and
+    Zhou, Peilin and
+    Hua, Yining and
+    Zhou, Grace Ziqi and
+    Zhang, Haiyang and
+    Shen, Tao and
+    Wang, Wei and
+    Torous, John and
+    Ji, Shaoxiong and
+    Chen, Ling",
+  booktitle = "Findings of the Association for Computational Linguistics: ACL 2026",
+  month = jul,
+  year = "2026",
+  address = "San Diego, USA",
+  publisher = "Association for Computational Linguistics",
+}
+```
+
+## Contact
+
+For questions regarding paper submission, please contact us at [psydefdetect@googlegroups.com](mailto:psydefdetect@googlegroups.com).
