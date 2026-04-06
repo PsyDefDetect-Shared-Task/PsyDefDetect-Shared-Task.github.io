@@ -12,6 +12,9 @@ PsyDefDetect invites researchers to tackle a novel challenge at the intersection
 Grounded in the clinically validated *Defense Mechanism Rating Scales (DMRS)* framework, this shared task aims to advance the understanding of unconscious defensive functioning in text.
 
 ## News
+- **2026-04-05** – We will present three shared task awards: **Best System Paper**, **Best Exploration Paper**, and **Best Interdisciplinary Insight Paper**, with certificates awarded on-site at BioNLP@ACL 2026. We encourage all participating teams to submit a system paper. See [Paper Submission](/paper-submission/) for details.
+- **2026-04-05** – [Team registration form](https://docs.google.com/forms/d/e/1FAIpQLSfaZ4PMMicGvXrs_a3oXScYzzk1LipyPNO2m1EQjuta3kGwvg/viewform?usp=dialog) is now open. All teams must register by **April 7, 2026 (AOE)**.
+- **2026-04-05** – [Paper submission guidelines](/paper-submission/) are now available, including format and required references.
 - **2026-04-04** – End of evaluation period extended to **April 7, 2026 (AOE)**. Submission guidelines and team registration link will be released on April 5.
 - **2026-03-15** – Evaluation period begins.
 - **2025-12-20** – Task launch on [CodaBench](https://www.codabench.org/competitions/12124/) with starter baseline kits.
@@ -40,7 +43,7 @@ Grounded in the clinically validated *Defense Mechanism Rating Scales (DMRS)* fr
 <details class="faq-item">
 <summary>How do I register my team?</summary>
 <div class="faq-answer">
-<p>We will release a Google Form for team registration at the end of the evaluation period. In the form, each team will select <strong>3 submission IDs</strong> from their CodaBench submissions as their final entries for ranking.</p>
+<p>We will release a Google Form for team registration at the end of the evaluation period.
 </div>
 </details>
 
