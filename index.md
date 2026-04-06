@@ -43,7 +43,7 @@ Grounded in the clinically validated *Defense Mechanism Rating Scales (DMRS)* fr
 <details class="faq-item">
 <summary>How do I register my team?</summary>
 <div class="faq-answer">
-<p>We will release a Google Form for team registration at the end of the evaluation period.
+<p>We will release a Google Form for team registration at the end of the evaluation period.</p>
 </div>
 </details>
 
