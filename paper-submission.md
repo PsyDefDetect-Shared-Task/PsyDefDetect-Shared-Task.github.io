@@ -63,24 +63,71 @@ Award winners will be announced and certificates will be presented on-site at th
 
 We ask participants to ensure the following citations are included in their system papers:
 
-**1. Overview Paper**
+<style>
+.cite-block {
+  position: relative;
+  margin: 1em 0 1.5em 0;
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  overflow: hidden;
+}
+.cite-block .cite-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+  background: #f6f8fa;
+  border-bottom: 1px solid #e1e4e8;
+  font-size: 13px;
+  color: #586069;
+}
+.cite-block .cite-header span {
+  font-weight: 600;
+}
+.cite-block .cite-copy {
+  padding: 3px 12px;
+  font-size: 12px;
+  cursor: pointer;
+  background: #fff;
+  border: 1px solid #d1d5da;
+  border-radius: 4px;
+  color: #24292e;
+  transition: background 0.15s;
+}
+.cite-block .cite-copy:hover {
+  background: #e9ecef;
+}
+.cite-block pre {
+  margin: 0;
+  padding: 12px 16px;
+  background: #fff;
+  overflow-x: auto;
+  font-size: 13px;
+  line-height: 1.5;
+  border: none;
+}
+.cite-block pre code {
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  background: none;
+  padding: 0;
+}
+</style>
 
-<div style="position: relative;">
-<button onclick="navigator.clipboard.writeText(this.parentElement.querySelector('code').innerText);this.textContent='Copied!';setTimeout(()=>this.textContent='Copy',2000)" style="position:absolute;top:5px;right:5px;padding:2px 8px;font-size:12px;cursor:pointer;background:#f0f0f0;border:1px solid #ccc;border-radius:3px;">Copy</button>
+<div class="cite-block">
+  <div class="cite-header">
+    <span>1. Overview Paper</span>
+    <button class="cite-copy" onclick="navigator.clipboard.writeText(this.closest('.cite-block').querySelector('code').innerText);this.textContent='Copied!';setTimeout(()=>this.textContent='Copy',2000)">Copy</button>
+  </div>
 <pre><code>@inproceedings{na-etal-2026-psydefdetect,
-  title = "Overview of the PsyDefDetect Shared Task at BioNLP@ACL 2026: Detecting Levels of Psychological Defense Mechanisms in Supportive Conversations",
-  author = "Na, Hongbin and
-    Wang, Zimu and
-    Chen, Zhaoming and
-    Hua, Yining and
-    Gao, Rena and
-    Yang, Kailai and
-    Chen, Ling and
-    Wang, Wei and
-    Ji, Shaoxiong and
-    Torous, John and
-    Ananiadou, Sophia",
-  booktitle = "The 25th Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks",
+  title = "Overview of the PsyDefDetect Shared Task at BioNLP@ACL 2026:
+           Detecting Levels of Psychological Defense Mechanisms
+           in Supportive Conversations",
+  author = "Na, Hongbin and Wang, Zimu and Chen, Zhaoming and
+            Hua, Yining and Gao, Rena and Yang, Kailai and
+            Chen, Ling and Wang, Wei and Ji, Shaoxiong and
+            Torous, John and Ananiadou, Sophia",
+  booktitle = "The 25th Workshop on Biomedical Natural Language
+               Processing and BioNLP Shared Tasks",
   month = jul,
   year = "2026",
   address = "San Diego, USA",
@@ -88,22 +135,19 @@ We ask participants to ensure the following citations are included in their syst
 }</code></pre>
 </div>
 
-**2. Survey Paper**
-
-<div style="position: relative;">
-<button onclick="navigator.clipboard.writeText(this.parentElement.querySelector('code').innerText);this.textContent='Copied!';setTimeout(()=>this.textContent='Copy',2000)" style="position:absolute;top:5px;right:5px;padding:2px 8px;font-size:12px;cursor:pointer;background:#f0f0f0;border:1px solid #ccc;border-radius:3px;">Copy</button>
+<div class="cite-block">
+  <div class="cite-header">
+    <span>2. Survey Paper</span>
+    <button class="cite-copy" onclick="navigator.clipboard.writeText(this.closest('.cite-block').querySelector('code').innerText);this.textContent='Copied!';setTimeout(()=>this.textContent='Copy',2000)">Copy</button>
+  </div>
 <pre><code>@inproceedings{na-etal-2025-survey,
-  title = "A Survey of Large Language Models in Psychotherapy: Current Landscape and Future Directions",
-  author = "Na, Hongbin and
-    Hua, Yining and
-    Wang, Zimu and
-    Shen, Tao and
-    Yu, Beibei and
-    Wang, Lilin and
-    Wang, Wei and
-    Torous, John and
-    Chen, Ling",
-  booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+  title = "A Survey of Large Language Models in Psychotherapy:
+           Current Landscape and Future Directions",
+  author = "Na, Hongbin and Hua, Yining and Wang, Zimu and
+            Shen, Tao and Yu, Beibei and Wang, Lilin and
+            Wang, Wei and Torous, John and Chen, Ling",
+  booktitle = "Findings of the Association for Computational
+               Linguistics: ACL 2025",
   month = jul,
   year = "2025",
   address = "Vienna, Austria",
@@ -114,25 +158,21 @@ We ask participants to ensure the following citations are included in their syst
 }</code></pre>
 </div>
 
-**3. Dataset Paper**
-
-<div style="position: relative;">
-<button onclick="navigator.clipboard.writeText(this.parentElement.querySelector('code').innerText);this.textContent='Copied!';setTimeout(()=>this.textContent='Copy',2000)" style="position:absolute;top:5px;right:5px;padding:2px 8px;font-size:12px;cursor:pointer;background:#f0f0f0;border:1px solid #ccc;border-radius:3px;">Copy</button>
+<div class="cite-block">
+  <div class="cite-header">
+    <span>3. Dataset Paper</span>
+    <button class="cite-copy" onclick="navigator.clipboard.writeText(this.closest('.cite-block').querySelector('code').innerText);this.textContent='Copied!';setTimeout(()=>this.textContent='Copy',2000)">Copy</button>
+  </div>
 <pre><code>@inproceedings{na-etal-2026-psydefconv,
-  title = "You Never Know a Person, You Only Know Their Defenses: Detecting Levels of Psychological Defense Mechanisms in Supportive Conversations",
-  author = "Na, Hongbin and
-    Wang, Zimu and
-    Chen, Zhaoming and
-    Zhou, Peilin and
-    Hua, Yining and
-    Zhou, Grace Ziqi and
-    Zhang, Haiyang and
-    Shen, Tao and
-    Wang, Wei and
-    Torous, John and
-    Ji, Shaoxiong and
-    Chen, Ling",
-  booktitle = "Findings of the Association for Computational Linguistics: ACL 2026",
+  title = "You Never Know a Person, You Only Know Their Defenses:
+           Detecting Levels of Psychological Defense Mechanisms
+           in Supportive Conversations",
+  author = "Na, Hongbin and Wang, Zimu and Chen, Zhaoming and
+            Zhou, Peilin and Hua, Yining and Zhou, Grace Ziqi and
+            Zhang, Haiyang and Shen, Tao and Wang, Wei and
+            Torous, John and Ji, Shaoxiong and Chen, Ling",
+  booktitle = "Findings of the Association for Computational
+               Linguistics: ACL 2026",
   month = jul,
   year = "2026",
   address = "San Diego, USA",
