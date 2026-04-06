@@ -119,7 +119,7 @@ We ask participants to ensure the following citations are included in their syst
     <button class="cite-copy" onclick="navigator.clipboard.writeText(this.closest('.cite-block').querySelector('code').innerText);this.textContent='Copied!';setTimeout(()=>this.textContent='Copy',2000)">Copy</button>
   </div>
 <pre><code>@inproceedings{na-etal-2026-psydefdetect,
-  title = "Overview of the PsyDefDetect Shared Task at BioNLP@ACL 2026:
+  title = "Overview of the PsyDefDetect Shared Task at BioNLP 2026:
            Detecting Levels of Psychological Defense Mechanisms
            in Supportive Conversations",
   author = "Na, Hongbin and Wang, Zimu and Chen, Zhaoming and
