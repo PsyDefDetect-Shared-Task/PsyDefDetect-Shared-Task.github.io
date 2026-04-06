@@ -65,8 +65,8 @@ We ask participants to ensure the following citations are included in their syst
 
 **1. Overview Paper**
 
-<details>
-<summary>Click to expand BibTeX</summary>
+<div style="position: relative;">
+<button onclick="navigator.clipboard.writeText(this.parentElement.querySelector('code').innerText);this.textContent='Copied!';setTimeout(()=>this.textContent='Copy',2000)" style="position:absolute;top:5px;right:5px;padding:2px 8px;font-size:12px;cursor:pointer;background:#f0f0f0;border:1px solid #ccc;border-radius:3px;">Copy</button>
 <pre><code>@inproceedings{na-etal-2026-psydefdetect,
   title = "Overview of the PsyDefDetect Shared Task at BioNLP@ACL 2026: Detecting Levels of Psychological Defense Mechanisms in Supportive Conversations",
   author = "Na, Hongbin and
@@ -85,14 +85,13 @@ We ask participants to ensure the following citations are included in their syst
   year = "2026",
   address = "San Diego, USA",
   publisher = "Association for Computational Linguistics",
-}
-</code></pre>
-</details>
+}</code></pre>
+</div>
 
 **2. Survey Paper**
 
-<details>
-<summary>Click to expand BibTeX</summary>
+<div style="position: relative;">
+<button onclick="navigator.clipboard.writeText(this.parentElement.querySelector('code').innerText);this.textContent='Copied!';setTimeout(()=>this.textContent='Copy',2000)" style="position:absolute;top:5px;right:5px;padding:2px 8px;font-size:12px;cursor:pointer;background:#f0f0f0;border:1px solid #ccc;border-radius:3px;">Copy</button>
 <pre><code>@inproceedings{na-etal-2025-survey,
   title = "A Survey of Large Language Models in Psychotherapy: Current Landscape and Future Directions",
   author = "Na, Hongbin and
@@ -112,14 +111,13 @@ We ask participants to ensure the following citations are included in their syst
   url = "https://aclanthology.org/2025.findings-acl.385/",
   doi = "10.18653/v1/2025.findings-acl.385",
   pages = "7362--7376",
-}
-</code></pre>
-</details>
+}</code></pre>
+</div>
 
 **3. Dataset Paper**
 
-<details>
-<summary>Click to expand BibTeX</summary>
+<div style="position: relative;">
+<button onclick="navigator.clipboard.writeText(this.parentElement.querySelector('code').innerText);this.textContent='Copied!';setTimeout(()=>this.textContent='Copy',2000)" style="position:absolute;top:5px;right:5px;padding:2px 8px;font-size:12px;cursor:pointer;background:#f0f0f0;border:1px solid #ccc;border-radius:3px;">Copy</button>
 <pre><code>@inproceedings{na-etal-2026-psydefconv,
   title = "You Never Know a Person, You Only Know Their Defenses: Detecting Levels of Psychological Defense Mechanisms in Supportive Conversations",
   author = "Na, Hongbin and
@@ -139,9 +137,8 @@ We ask participants to ensure the following citations are included in their syst
   year = "2026",
   address = "San Diego, USA",
   publisher = "Association for Computational Linguistics",
-}
-</code></pre>
-</details>
+}</code></pre>
+</div>
 
 ## Contact
 
