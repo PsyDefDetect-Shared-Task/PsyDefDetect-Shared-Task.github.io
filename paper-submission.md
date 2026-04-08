@@ -20,6 +20,8 @@ All deadlines are 11:59 PM UTC-12:00 ("Anywhere on Earth").
 
 > **📌 NOTE**: The paper submission deadline of **April 17, 2026** is firm and cannot be extended, as it is set by the BioNLP workshop. Please plan your writing accordingly.
 
+> For questions regarding paper submission, please email us at [Hongbin.Na@student.uts.edu.au](mailto:Hongbin.Na@student.uts.edu.au) and cc [Zimu.Wang@liverpool.ac.uk](mailto:Zimu.Wang@liverpool.ac.uk).
+
 ## Submission
 
 All participating teams are invited to submit system papers that, pending review, will be published as part of the BioNLP Workshop proceedings.
