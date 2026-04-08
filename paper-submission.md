@@ -17,6 +17,7 @@ All deadlines are 11:59 PM UTC-12:00 ("Anywhere on Earth").
 - **BioNLP Workshop date**: July 3 or 4, 2026
 
 > **⚠️ IMPORTANT**: All teams must complete the [Result Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfaZ4PMMicGvXrs_a3oXScYzzk1LipyPNO2m1EQjuta3kGwvg/viewform?usp=dialog) **before April 8, 2026 (AOE)**. Teams that do not register by this deadline will not be included in the official ranking.
+> **📌 NOTE**: The paper submission deadline of **April 17, 2026** is firm and cannot be extended, as it is set by the BioNLP workshop. Please plan your writing accordingly.
 
 ## Submission
 
