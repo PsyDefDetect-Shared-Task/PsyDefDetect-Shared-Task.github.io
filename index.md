@@ -15,6 +15,8 @@ Grounded in the clinically validated *Defense Mechanism Rating Scales (DMRS)* fr
 
 > **📌 NOTE**: The paper submission deadline of **April 17, 2026** is firm and cannot be extended, as it is set by the BioNLP workshop. Please plan your writing accordingly.
 
+
+
 ## News
 - **2026-04-05** – We will present three shared task awards: **Best System Paper**, **Best Exploration Paper**, and **Best Interdisciplinary Insight Paper**, with certificates awarded on-site at BioNLP@ACL 2026. We encourage all participating teams to submit a system paper. See [Paper Submission](/paper-submission/) for details.
 - **2026-04-05** – [Result registration form](https://docs.google.com/forms/d/e/1FAIpQLSfaZ4PMMicGvXrs_a3oXScYzzk1LipyPNO2m1EQjuta3kGwvg/viewform?usp=dialog) is now open. All teams must register by ~~April 7~~ → **April 8, 2026 (AOE)**.
@@ -52,8 +54,7 @@ Grounded in the clinically validated *Defense Mechanism Rating Scales (DMRS)* fr
 </details>
 
 ## Contact
-Please stay up to date by joining our [Discord Server](https://discord.gg/AhuspeXNkM) and [Mailing List](https://groups.google.com/g/psydefdetect). If you have any questions for the organizers, please email us at psydefdetect@googlegroups.com.
-
+Please stay up to date by joining our [Discord Server](https://discord.gg/AhuspeXNkM) and [Mailing List](https://groups.google.com/g/psydefdetect). If you have any questions for the organizers, please email us at [Hongbin.Na@student.uts.edu.au](mailto:Hongbin.Na@student.uts.edu.au) and cc [Zimu.Wang@liverpool.ac.uk](mailto:Zimu.Wang@liverpool.ac.uk).
 
 ## Organizers
 - [Hongbin Na](https://hongbin-ze.github.io/), University of Technology Sydney
