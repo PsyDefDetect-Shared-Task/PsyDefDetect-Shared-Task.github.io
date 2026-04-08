@@ -28,11 +28,13 @@ Participants can submit a system paper at the following SoftConf link (track **"
 
 ## Format
 
-System papers should follow the **ACL 2026 short paper format** (i.e., up to **4 pages** of content, with unlimited pages for appendices and references), as described on the [ACL 2026 Call for Papers](https://2026.aclweb.org/calls/main_conference_papers/#paper-submission-details).
+Length: System papers should follow the **ACL 2026 short paper format** (i.e., up to **4 pages** of content, with unlimited pages for appendices and references), as described on the [ACL 2026 Call for Papers](https://2026.aclweb.org/calls/main_conference_papers/#paper-submission-details).
 
-The LaTeX/Word templates can be found at: [https://github.com/acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)
+Template: The LaTeX/Word templates can be found at: [https://github.com/acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)
 
-As shared task system papers, submissions are **not anonymized** — please include author names and affiliations.
+Anonymity: As shared task system papers, submissions are **not anonymized** — please include author names and affiliations.
+
+Title format: Paper titles must follow: “{TEAM_NAME} at PsyDefDetect: {DESCRIPTIVE_TITLE}”, where the descriptive title reflects your approach.
 
 ## What We Are Looking For
 
