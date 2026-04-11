@@ -18,6 +18,7 @@ Grounded in the clinically validated *Defense Mechanism Rating Scales (DMRS)* fr
 
 
 ## News
+- **2026-04-10** - Final results are live! Check the [Leaderboard](https://docs.google.com/spreadsheets/d/1fMDIwC4sisOguLKm3yMd2uMrC4_KjmAiHuWm_QQuld8/edit?usp=sharing). Paper submission deadline is April 17. See [Paper Submission](https://psydefdetect-shared-task.github.io/paper-submission/) for format and citation requirements.
 - **2026-04-05** – We will present three shared task awards: **Best System Paper**, **Best Exploration Paper**, and **Best Interdisciplinary Insight Paper**, with certificates awarded on-site at BioNLP@ACL 2026. We encourage all participating teams to submit a system paper. See [Paper Submission](/paper-submission/) for details.
 - **2026-04-05** – [Result registration form](https://docs.google.com/forms/d/e/1FAIpQLSfaZ4PMMicGvXrs_a3oXScYzzk1LipyPNO2m1EQjuta3kGwvg/viewform?usp=dialog) is now open. All teams must register by ~~April 7~~ → **April 8, 2026 (AOE)**.
 - **2026-04-05** – [Paper submission guidelines](/paper-submission/) are now available, including format and required references.
