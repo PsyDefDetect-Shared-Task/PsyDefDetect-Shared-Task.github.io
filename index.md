@@ -18,6 +18,7 @@ Grounded in the clinically validated *Defense Mechanism Rating Scales (DMRS)* fr
 
 
 ## News
+- - **2026-04-09** – Test labels (`test_label.json`) are now released. [Download here]([https://drive.google.com/YOUR_LINK_HERE](https://drive.google.com/file/d/1BkUbOXoin0j6BAUjHMm5867ggyRvpnWL/view?usp=sharing)).
 - **2026-04-10** - Final results are live! Check the [Leaderboard](https://docs.google.com/spreadsheets/d/1fMDIwC4sisOguLKm3yMd2uMrC4_KjmAiHuWm_QQuld8/edit?usp=sharing). Paper submission deadline is April 17. See [Paper Submission](https://psydefdetect-shared-task.github.io/paper-submission/) for format and citation requirements. If you missed the result registration deadline, please send your team name, CodaBench username, and submission file to Zimu.Wang@liverpool.ac.uk (cc Hongbin.Na@student.uts.edu.au) and we'll add you.
 - **2026-04-05** – We will present three shared task awards: **Best System Paper**, **Best Exploration Paper**, and **Best Interdisciplinary Insight Paper**, with certificates awarded on-site at BioNLP@ACL 2026. We encourage all participating teams to submit a system paper. See [Paper Submission](/paper-submission/) for details.
 - **2026-04-05** – [Result registration form](https://docs.google.com/forms/d/e/1FAIpQLSfaZ4PMMicGvXrs_a3oXScYzzk1LipyPNO2m1EQjuta3kGwvg/viewform?usp=dialog) is now open. All teams must register by ~~April 7~~ → **April 8, 2026 (AOE)**.
