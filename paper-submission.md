@@ -141,20 +141,16 @@ publisher = "Association for Computational Linguistics",
     <button class="cite-copy" onclick="navigator.clipboard.writeText(this.closest('.cite-block').querySelector('code').innerText);this.textContent='Copied!';setTimeout(()=>this.textContent='Copy',2000)">Copy</button>
   </div>
 <pre><code>@inproceedings{na-etal-2025-survey,
-  title = "A Survey of Large Language Models in Psychotherapy:
-           Current Landscape and Future Directions",
-  author = "Na, Hongbin and Hua, Yining and Wang, Zimu and
-            Shen, Tao and Yu, Beibei and Wang, Lilin and
-            Wang, Wei and Torous, John and Chen, Ling",
-  booktitle = "Findings of the Association for Computational
-               Linguistics: ACL 2025",
-  month = jul,
-  year = "2025",
-  address = "Vienna, Austria",
-  publisher = "Association for Computational Linguistics",
-  url = "https://aclanthology.org/2025.findings-acl.385/",
-  doi = "10.18653/v1/2025.findings-acl.385",
-  pages = "7362--7376",
+title = "A Survey of Large Language Models in Psychotherapy: Current Landscape and Future Directions",
+author = "Na, Hongbin and Hua, Yining and Wang, Zimu and Shen, Tao and Yu, Beibei and Wang, Lilin and Wang, Wei and Torous, John and Chen, Ling",
+booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+month = jul,
+year = "2025",
+address = "Vienna, Austria",
+publisher = "Association for Computational Linguistics",
+url = "https://aclanthology.org/2025.findings-acl.385/",
+doi = "10.18653/v1/2025.findings-acl.385",
+pages = "7362--7376",
 }</code></pre>
 </div>
 
@@ -164,19 +160,13 @@ publisher = "Association for Computational Linguistics",
     <button class="cite-copy" onclick="navigator.clipboard.writeText(this.closest('.cite-block').querySelector('code').innerText);this.textContent='Copied!';setTimeout(()=>this.textContent='Copy',2000)">Copy</button>
   </div>
 <pre><code>@inproceedings{na-etal-2026-psydefconv,
-  title = "You Never Know a Person, You Only Know Their Defenses:
-           Detecting Levels of Psychological Defense Mechanisms
-           in Supportive Conversations",
-  author = "Na, Hongbin and Wang, Zimu and Chen, Zhaoming and
-            Zhou, Peilin and Hua, Yining and Zhou, Grace Ziqi and
-            Zhang, Haiyang and Shen, Tao and Wang, Wei and
-            Torous, John and Ji, Shaoxiong and Chen, Ling",
-  booktitle = "Findings of the Association for Computational
-               Linguistics: ACL 2026",
-  month = jul,
-  year = "2026",
-  address = "San Diego, USA",
-  publisher = "Association for Computational Linguistics",
+title = "You Never Know a Person, You Only Know Their Defenses: Detecting Levels of Psychological Defense Mechanisms in Supportive Conversations",
+author = "Na, Hongbin and Wang, Zimu and Chen, Zhaoming and Zhou, Peilin and Hua, Yining and Zhou, Grace Ziqi and Zhang, Haiyang and Shen, Tao and Wang, Wei and Torous, John and Ji, Shaoxiong and Chen, Ling",
+booktitle = "Findings of the Association for Computational Linguistics: ACL 2026",
+month = jul,
+year = "2026",
+address = "San Diego, USA",
+publisher = "Association for Computational Linguistics",
 }</code></pre>
 </div>
 
