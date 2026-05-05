@@ -13,7 +13,7 @@ All deadlines are 11:59 PM UTC-12:00 ("Anywhere on Earth").
 - **Final results announced**: ~~April 8~~ → **April 9, 2026**
 - **Paper submission deadline**: April 17, 2026
 - **Notification of acceptance**: May 4, 2026
-- **Camera-ready paper due**: May 12, 2026
+- **Camera-ready paper due**: ~~May 12~~,→ **May 14, 2026**
 - **BioNLP Workshop date**: July 3 or 4, 2026
 
 > **⚠️ IMPORTANT**: All teams must complete the [Result Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfaZ4PMMicGvXrs_a3oXScYzzk1LipyPNO2m1EQjuta3kGwvg/viewform?usp=dialog) **before April 8, 2026 (AOE)**. Teams that do not register by this deadline will not be included in the official ranking.
