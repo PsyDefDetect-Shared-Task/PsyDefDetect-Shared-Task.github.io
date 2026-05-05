@@ -124,7 +124,7 @@ We ask participants to ensure the following citations are included in their syst
     <span>1. Overview Paper</span>
     <button class="cite-copy" onclick="navigator.clipboard.writeText(this.closest('.cite-block').querySelector('code').innerText);this.textContent='Copied!';setTimeout(()=>this.textContent='Copy',2000)">Copy</button>
   </div>
-@inproceedings{na-etal-2026-psydefdetect,
+<pre><code>@inproceedings{na-etal-2026-psydefdetect,
 title = "Overview of the PsyDefDetect Shared Task at BioNLP 2026: Detecting Levels of Psychological Defense Mechanisms in Supportive Conversations",
 author = "Na, Hongbin and Wang, Zimu and Chen, Zhaoming and Hua, Yining and Gao, Rena and Yang, Kailai and Chen, Ling and Wang, Wei and Ji, Shaoxiong and Torous, John and Ananiadou, Sophia",
 booktitle = "Proceedings of the 25th Workshop on Biomedical Language Processing",
@@ -132,7 +132,7 @@ month = jul,
 year = "2026",
 address = "San Diego, USA",
 publisher = "Association for Computational Linguistics",
-}
+}</code></pre>
 </div>
 
 <div class="cite-block">
