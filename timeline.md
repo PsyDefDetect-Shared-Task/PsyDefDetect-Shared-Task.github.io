@@ -19,6 +19,6 @@ This preliminary timeline is subject to change:
 
 2026-05-04: Author notifications.
 
-2026-05-12: Camera ready due.
+~~May 12~~,→ **May 14, 2026**: Camera ready due.
 
 **Attention**: the deadlines are given as anywhere on earth (AoE) times.
